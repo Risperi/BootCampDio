@@ -20,7 +20,7 @@ O programa simula a criação de uma conta bancária. O sistema solicita informa
 
 * **Java 17** (ou superior)
 * **Scanner**: Para captura de dados via teclado.
-* **VS Code** ou **IntelliJ IDEA**
+* ECLIPSE
 
 ## 🚀 Como Executar o Projeto
 
